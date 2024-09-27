@@ -1,6 +1,6 @@
 ## Available Scripts
 
-*run ###`npm install` before running scripts
+*run `npm install` before running scripts
 
 In the project directory, you can run:
 
